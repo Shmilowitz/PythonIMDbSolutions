@@ -7,9 +7,10 @@ All answers are for the exercises found at: https://github.com/szEIgo/UnrulyKnif
 
 Getting Started
 -------
-1. Download Exercise.py and befkbh.csv files.  
-2. Run the Exercise.py file. All the charts will be generated as .png files named Q'X'.  
-3. Check the console prints for extras and answer to Question 3.
+1. Download runnable.py and movies.csv files.  
+2. Run the Exercise.py file. All the charts will be generated as .png files.  
+3. Some results may be printed to the console. For testing purposes.
+EXTRA. At the bottom of the runnable.py file, every function is called. Feel free to outcomment if only specific functions are supposed to be called
 
 Prerequisites
 -------

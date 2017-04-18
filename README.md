@@ -53,3 +53,5 @@ Black Monday (1987)
 ## 3. Make a scatter-plot with year and length of movies. (Try to find clusters and explain them. Wild guesses are accepted).
 Mickey mouse movies were created in 1928  
 ![picture alt](https://github.com/Shmilowitz/PythonIMDbSolutions/blob/master/Scatter.png?raw=true)
+## 6. Extra! Check for if movies are animated in the scatter.plot.
+

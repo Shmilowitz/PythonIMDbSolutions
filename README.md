@@ -45,7 +45,10 @@ Sound film
 
 ![picture alt](https://github.com/Shmilowitz/PythonIMDbSolutions/blob/master/LengthHist.png?raw=true)
 ## 2. Create a graph showing both year and amount of movies made. 
-By the early 1930s, the talkies were a global phenomenon.  
+By the early 1930s, the talkies were a global phenomenon.
+World war 2
+Black Monday (1987)
+
 ![picture alt](https://github.com/Shmilowitz/PythonIMDbSolutions/blob/master/Year.png?raw=true)
 ## 3. Make a scatter-plot with year and length of movies. (Try to find clusters and explain them. Wild guesses are accepted).
 Mickey mouse movies were created in 1928

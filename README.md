@@ -28,8 +28,8 @@ This project requires the following modules to be installed/imported:
 
 Improvements
 -------
-Making functions for repeatative code. Eg. Plotting data
-Improve quantity and quality of comments
+* Making functions for repeatative code. Eg. Plotting data
+* Improve quantity and quality of comments
 # Solutions
 
 Questions asked

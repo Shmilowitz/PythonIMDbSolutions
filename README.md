@@ -48,3 +48,4 @@ Sound film
 By the early 1930s, the talkies were a global phenomenon.  
 ![picture alt](https://github.com/Shmilowitz/PythonIMDbSolutions/blob/master/YearHist.png?raw=true)
 ## 3. Make a scatter-plot with year and length of movies. (Try to find clusters and explain them. Wild guesses are accepted).
+Mickey mouse movies were created in 1928

@@ -3,7 +3,7 @@ Purpose
 -------
 
 Explore the distribution of the marital status' of the inhabitants Copenhagen.  
-All answers are for the exercises found at: https://github.com/szEIgo/UnrulyKnife
+All answers are for the exercises found at: https://github.com/Shmilowitz/PythonIMDbExercise
 
 Getting Started
 -------

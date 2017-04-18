@@ -30,6 +30,8 @@ Improvements
 -------
 * Making functions for repeatative code. Eg. Plotting data
 * Improve quantity and quality of comments
+* Get SciPy module to work, and SKlearn for mean shift algorithm
+* Calculate and plot the mean line 
 # Solutions
 
 Questions asked

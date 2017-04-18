@@ -7,6 +7,7 @@ All answers are for the exercises found at: https://github.com/szEIgo/UnrulyKnif
 
 Getting Started
 -------
+All the exercises are answered in one file, runnable.py. All the different plots are generated in seperate functions and are called at the bottom of the file. 
 1. Download runnable.py and movies.csv files.  
 2. Run the Exercise.py file. All the charts will be generated as .png files.  
 3. Some results may be printed to the console. For testing purposes.
@@ -25,7 +26,10 @@ This project requires the following modules to be installed/imported:
 * `urllib`
 * `operator`
 
-
+Improvements
+-------
+Making functions for repeatative code. Eg. Plotting data
+Improve quantity and quality of comments
 # Solutions
 
 Questions asked
